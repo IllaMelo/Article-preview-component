@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+
+--Font-title: hsl(217, 19%, 35%);
+--Font-paragraph: hsl(214, 17%, 51%);
+--Backgroundcolor: hsl(212, 23%, 69%);
+--Cardcolor:hsl(210, 46%, 95%);
+
+}
